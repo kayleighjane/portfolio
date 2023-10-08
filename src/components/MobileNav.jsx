@@ -9,7 +9,7 @@ const MobileNav = ({  isActive }) => {
   return ( 
  <ul className={`pt-4 ${isActive ? '' : 'hidden'}`}>
     {linkData.map((link, key) => (
-      currentPage != link 
+      currentPage !== link 
       ? (<li key={key}>
       <Link to={`/${link}`}>{link}</Link>
       </li>
