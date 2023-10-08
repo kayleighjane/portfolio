@@ -1,7 +1,6 @@
 import useBreadcrumbs from 'use-react-router-breadcrumbs';
 import React, { useState } from 'react';
 import { Link, useLocation } from 'react-router-dom';
-import Nav from './Nav';
 import MobileNav from './MobileNav';
 import DownArrowIcon from './icons/DownArrowIcon';
 
