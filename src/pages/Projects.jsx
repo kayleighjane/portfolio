@@ -9,8 +9,6 @@ const Projects = () => {
         Here are my current projects that are available on Github. 
       </p>
       <Card />
-      <Card />
-      <Card />
     </section>
   )
 };

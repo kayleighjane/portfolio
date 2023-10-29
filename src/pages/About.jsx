@@ -8,7 +8,7 @@ const About = () => {
       <br /><br />
       I currently work at a company called Homeflow, where I fix bugs, carry out features and work on larger projects as part of strategic development, theme builds and other fun stuff. 
       <br /><br />
-      I’ve got solid experience in the foundations of HTML, Javascript and CSS, but have worked with frameworks and languages such as React, SASS, Ruby, Liquid and Tailwind. 
+      I’ve got experience in the foundations of HTML, Javascript and CSS, but have worked with frameworks and languages such as React, SASS, Ruby, Liquid and Tailwind. 
       <br /><br />
       I have a background in design that comes in handy and like to approach my projects with my own creative twist on the brief where I can!
     </p>
