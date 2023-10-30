@@ -3,8 +3,6 @@ import React from 'react';
 
 const Card = () => {
 
-
-
 return (
   <div className="flex gap-x-4 rounded-xl border-2 border-custom-light p-4">
     <div className="rounded-lg bg-custom-light"></div>
