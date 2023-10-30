@@ -32,7 +32,7 @@ return (
     <ul className="flex gap-x-2">
       {breadcrumbArray.map((item, key) => (
       <li key={key}>
-      {!item?.breadcrumb ? (<span className="rounded-lg bg-custom-light px-2 leading-11"></span>) : (<button className="rounded-xl py-1 px-2.5 border-2 border-custom-light h-10 md:h-11">
+      {!item?.breadcrumb ? (<span className="rounded-lg bg-custom-light px-2 leading-11"></span>) : (<button className="rounded-xl py-1 px-2.5 border-2 hover:bg-custom-light hover:text-custom-dark border-custom-light h-10 md:h-11">
         {location.pathname === item.match?.pathname ? item?.breadcrumb
       : (
         <Link to={item.match?.pathname}>

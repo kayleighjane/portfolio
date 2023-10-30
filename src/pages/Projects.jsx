@@ -8,7 +8,7 @@ const Projects = () => {
       <p className="text-xl primary font-normal customsm:text-2xl semibold">
         Here are my current projects that are available on Github. 
       </p>
-      <Card />
+      <Card title="Movie search" description="... is a React application created as part of a training project with Paul Blackwell, where through paired programming we covered the basics of React and best practices of it using the IMDBAPI." docsLink="https://" previewLink="https://" />
     </section>
   )
 };
